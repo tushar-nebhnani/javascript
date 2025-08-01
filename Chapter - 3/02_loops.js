@@ -21,4 +21,13 @@ while(j > 0) {
 } 
 console.log(arr);
 
-// challenge 3 
+// challenge 3
+let teaCollection = []
+let tea;
+do {
+   tea = prompt("Enter your Favourite Tea: (type 'stop' to end the loop)")
+} while(tea == 'stop');
+
+// challenge 4
+// challenge 5 
+// challenge 6 
