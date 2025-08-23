@@ -1,10 +1,29 @@
+console.log("Jai Shree Ram!");
+
+/*
+    loops: while loop, for loop, do-while loop
+
+    - While: While the condition is truthy, the code from the loop body is executed.
+
+    while (condition) {
+        // code
+        // so-called "loop body"
+    }
+
+    - do...while: this loops run atleast one time before checking the condition.
+
+    do {
+        // loop body
+    } while (condition);
+
+*/
 // if checks for one time while loops checks again n again 
 // GuideLines for loops:
 // keyword -> while, do-while, for, for-of, for-each, for-in
 // termination CSSConditionRule, loop can be infinite
 // execution statements (body of loop)
 
-// challenge 1 
+// challenge 1: Find the sum of the first five numbers.
 let i = 1, sum = 0
 while (i <= 5) {
     sum = i + sum
