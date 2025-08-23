@@ -60,3 +60,5 @@ let num3 = 5
 console.log(num1 == num2);
 console.log(num1 === num2);
 console.log(num1 != num3);
+
+// Operator Parenthesis: Readable Code but you don't wanna do it
